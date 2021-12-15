@@ -44,6 +44,8 @@ https://www.udemy.com/course/advanced-scala/
 
 ### Сайты и другие ресурсы
 
+https://rockthejvm.com/
+
 https://www.scala-exercises.org/
 
 https://softwaremill.com/scala/
