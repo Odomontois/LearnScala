@@ -22,6 +22,8 @@
 
 ### Книги
 
+https://underscore.io/books/shapeless-guide/
+
 https://underscore.io/books/essential-scala/
 
 https://underscore.io/books/scala-with-cats/
