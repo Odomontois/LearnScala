@@ -1,4 +1,4 @@
-# Ресурсы для изучения scala
+# Ресурсы для изучения Scala
 
 ## На русском языке
 
@@ -22,27 +22,53 @@
 
 ### Книги
 
-https://underscore.io/books/shapeless-guide/
+<details><summary><a href="https://www.artima.com/shop/programming_in_scala_4ed">Programming in Scala</a></summary>
+<p>
+Книга от автора языка. Большая книга, подходящая для тех, кто видит скалу первый раз.
+</p>
+</details>
 
-https://underscore.io/books/essential-scala/
+<details><summary><a href="https://underscore.io/books/essential-scala/">Essential Scala</a></summary>
+<p>
+Книга для начинающих.
+</p>
+</details>
 
-https://underscore.io/books/scala-with-cats/
+<details><summary><a href="https://underscore.io/books/shapeless-guide/">The Type Astronaut's Guide to Shapeless</a></summary>
+<p>
+Книга про библиотеку Shapeless. Можно использовать вместо документации по этой библиотеки. Подробно описывает многие вещи, связанные с имплиситами и type-level программированием.
+</p>
+</details>
 
-https://www.manning.com/books/functional-programming-in-scala
+<details><summary><a href="https://underscore.io/books/scala-with-cats/">Scala with Cats</a></summary>
+<p>
+Книга про фукнкциональное программирование. Всё рассказывается с использованием библиотеки Cats. Подойдёт и как гайд по Cats, и как книга для тех, кто хочет освоить основы ФП.
+</p>
+</details>
 
-https://leanpub.com/pfp-scala
+<details><summary><a href="https://www.manning.com/books/functional-programming-in-scala">Functional Programming in Scala (красная книга)</a></summary>
+<p>
+Ещё одна книга про фукнкциональное программирование. Очень детальная, с большим количеством примеров. После её прочтения вы сможете сами написать свою библиотеку типа Cats с нуля.
+</p>
+</details>
+
+<details><summary><a href="https://leanpub.com/pfp-scala">Practical FP in Scala: A hands-on approach</a></summary>
+<p>
+Книга про то, как используя библиотеки из Typelevel экосистемы писать реальные приложения в функциональном стиле.
+</p>
+</details>
 
 ### Онлайн-курсы
 
 #### Lightbend
 
-https://academy.lightbend.com/
+[Lightbend Academy](https://academy.lightbend.com/)
 
 #### Udemy
 
-https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
+[Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 
-https://www.udemy.com/course/advanced-scala/
+[Advanced Scala and Functional Programming | Rock the JVM](https://www.udemy.com/course/advanced-scala/)
 
 ### Сайты и другие ресурсы
 
@@ -54,7 +80,14 @@ https://softwaremill.com/scala/
 
 ### Обучающие видео
 
-
 ### Офлайн курсы и регулярные мероприятия
 
 https://scala-bootcamp.evolution.com/
+
+# Нерекомендуемые ресурсы
+
+<details><summary><a href="https://horstmann.com/scala/">Scala for the Impatient</a></summary>
+<p>
+Книга по содержанию почти полностью повторяет книгу Programming in Scala, но значительно сокращена в плане контента. Многие вещи преподносятся без должного объяснения. Некоторые примеры откровенно вредные.
+</p>
+</details>
