@@ -78,6 +78,14 @@ https://www.scala-exercises.org/
 
 https://softwaremill.com/scala/
 
+#### Тестирование
+
+https://www.scalatest.org/
+
+https://blog.rockthejvm.com/testing-styles-scalatest/
+
+https://queirozf.com/entries/scala-testing-with-scalatest-reference-and-examples
+
 ### Обучающие видео
 
 ### Офлайн курсы и регулярные мероприятия
