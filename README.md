@@ -76,6 +76,8 @@ https://rockthejvm.com/
 
 https://www.scala-exercises.org/
 
+https://www.scalatest.org/
+
 https://softwaremill.com/scala/
 
 ### Обучающие видео
